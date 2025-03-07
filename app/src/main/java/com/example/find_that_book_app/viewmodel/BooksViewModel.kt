@@ -13,7 +13,7 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 
-const val API_KEY = "AIzaSyCYtV-XEUl1QCGHQSItgKyBZHEKkkPlD1s"
+const val API_KEY = "YOUR_API_KEY"
 
 sealed interface BookUiState{
     object Success: BookUiState
