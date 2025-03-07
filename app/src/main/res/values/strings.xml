@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">find_that_book_app</string>
+    <string name="popular_books_title">Popular books</string>
+    <string name="search_title">Search</string>
+    <string name="info_menu_title">Info</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="menu_to_navigate_to_info_and_settings">Menu to navigate to info and settings</string>
+    <string name="back_button">Back</string>
+    <string name="BASE_GOOGLE_BOOKS_URL">https://www.googleapis.com/books/v1/</string>
+    <string name="read_now_button_text">Read Now</string>
+    <string name="buy_link_not_available">Buy Link Not Available</string>
+    <string name="book_cover">book cover</string>
+    <string name="no_published_date_provided">No published date provided</string>
+    <string name="no_subtitle_provided">No subtitle provided</string>
+    <string name="search_books">Search books...</string>
+    <string name="search_button">Search button</string>
+    <string name="information">Information</string>
+    <string name="findthatbook_app">FindThatBook App</string>
+    <string name="developer_maksim_kalashnikov">Developer: Maksim Kalashnikov</string>
+    <string name="_2025">2025</string>
+    <string name="this_product_is_under_mit_license">This product is under MIT License.</string>
+    <string name="url_if_not_available_image">https://upload.wikimedia.org/wikipedia/commons/6/64/Poster_not_available.jpg</string>
+    <string name="no_title">No Title</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_description_available">No Description Available</string>
+    <string name="search_books_title">Search books</string>
+    <string name="top_20_in_finland">TOP 20 in Finland</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="built_using_google_books_api">Built using Google Books API</string>
+    <string name="no_books_found">No books found</string>
+</resources>
